@@ -4,7 +4,7 @@
 This repository is for our SWE485: Selected Topics in Software Engineering course for the 3rd trimester of Spring 2023. We will be analyzing the Fastfood Nutrition dataset present on Kaggle.
 
 
-**Group #7:**
+**Group #7 Members:**
 1) Aljaoharah Alshathri (Leader), 441200769
 2) Leen Alyahya, 441200233
 3) Alanood Abanumy, 442203095
